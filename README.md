@@ -1,7 +1,5 @@
 ﻿# clinica-sorriso-api
-# Ignorar configurações e senhas locais
-.env
-node_modules/
+
 
 O presente contrato tem como objeto o desenvolvimento de um
 sistema de software para agendar pacientes de forma prática na clínica
